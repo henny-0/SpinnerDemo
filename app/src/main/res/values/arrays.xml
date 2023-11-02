@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="favPlaces">
+        <item>Click to See</item>
+        <item>India - Mumbai</item>
+        <item>USA - New York</item>
+        <item>France - Paris</item>
+        <item>Italy - Rome</item>
+        <item>Japan - Tokyo</item>
+        <item>Jamaica - Montego Bay</item>
+    </string-array>
+</resources>
